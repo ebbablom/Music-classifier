@@ -1,7 +1,7 @@
 # SF2935-Modern-Methods-of-Statistical-Learning
 ## PROJECT WORK IN SF2935: MUSIC CLASSIFICATION
 
-n this project a training data set from Spotify that consists of 501 songs with some high level
+In this project a training data set from Spotify that consists of 501 songs with some high level
 features is provided. The aim is to build a model that predicts weather Pierre likes (labeled ’1’)
 or dislikes (labeled ’0’) these songs. The model capacity of prediction will then be measured on an
 unlabeled test data set that contains 75 songs with the same high level features as the training data
