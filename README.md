@@ -11,4 +11,4 @@ The specific task is to make use of the classification methods discussed during 
 these methods three are chosen and fine tuned as well as possible. Finally, one model is chosen and
 putted into production. As an additional part of the project our model will be sent into a friendly
 competition within the course, where the prediction accuracy on the test set will be uploaded on a
-leaderboard
+leaderboard.
