@@ -1,0 +1,3 @@
+# SF2935-Modern-Methods-of-Statistical-Learning
+PROJECT WORK IN SF2935:
+MUSIC CLASSIFICATION
